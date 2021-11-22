@@ -1,0 +1,14 @@
+D:\Desktop\Amber\AmberPOW\bin\Debug\netcoreapp3.1\AmberPOW.exe
+D:\Desktop\Amber\AmberPOW\bin\Debug\netcoreapp3.1\AmberPOW.deps.json
+D:\Desktop\Amber\AmberPOW\bin\Debug\netcoreapp3.1\AmberPOW.runtimeconfig.json
+D:\Desktop\Amber\AmberPOW\bin\Debug\netcoreapp3.1\AmberPOW.runtimeconfig.dev.json
+D:\Desktop\Amber\AmberPOW\bin\Debug\netcoreapp3.1\AmberPOW.dll
+D:\Desktop\Amber\AmberPOW\bin\Debug\netcoreapp3.1\AmberPOW.pdb
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.csproj.AssemblyReference.cache
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.AssemblyInfoInputs.cache
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.AssemblyInfo.cs
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.csproj.CoreCompileInputs.cache
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.dll
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.pdb
+D:\Desktop\Amber\AmberPOW\obj\Debug\netcoreapp3.1\AmberPOW.genruntimeconfig.cache
